@@ -26,6 +26,8 @@ currently there are four differently-configured calls to the core function (iter
 
 -the syntax is as follows:
       excluding 'nextupdate' at level 1 would be: exclude.Add("nextupdate",1)
+      
+-the pivt function pivots one field into a column
 
 # example usage:
 -an example of how the 'shred1' config works (with the included NFL Gameday JSON file) is as follows:
