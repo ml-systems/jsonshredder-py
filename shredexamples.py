@@ -1,4 +1,4 @@
-f = open(r'C:\Users\nflvm\Desktop\python\tmp2.json')
+f = open(r'tmp2.json')
 data = json.load(f)
 f.close()
 
